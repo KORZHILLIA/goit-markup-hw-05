@@ -100,7 +100,7 @@ body img {
 
 .page-header-nav-link.is-active::after {
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   content: "";
   display: block;
   width: 100%;
